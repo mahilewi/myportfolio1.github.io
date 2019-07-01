@@ -1,0 +1,71 @@
+﻿@charset "UTF-8";
+@font-face {
+  font-family: "freightsans_regular";
+  src: url('../font/freightsans-light-webfontfe66.eot?1548324544');
+  src: url('../font/freightsans-light-webfont5f6a.eot?&amp;1548324544#iefix') format('embedded-opentype'), url('../font/freightsans-light-webfontfe66.woff?1548324544') format('woff'), url('../font/freightsans-light-webfontfe66.ttf?1548324544') format('truetype'), url('../font/freightsans-light-webfontfe66.svg?1548324544') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "freightsans_regular";
+  src: url();
+  src: url('../font/freightsans-book-webfont5f6a.eot') format('embedded-opentype'), url('../font/freightsans-book-webfontfe66.woff?1548324544') format('woff'), url('../font/freightsans-book-webfontfe66.ttf?1548324544') format('truetype'), url('../font/freightsans-book-webfontfe66.svg?1548324544') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "neuzeitgrobold";
+  src: url('../font/neuzeitgro-bol-webfontfe66.eot?1548324544');
+  src: url('../font/neuzeitgro-bol-webfont5f6a.eot?&amp;1548324544#iefix') format('embedded-opentype'), url('../font/neuzeitgro-bol-webfontfe66.woff?1548324544') format('woff'), url('../font/neuzeitgro-bol-webfontfe66.ttf?1548324544') format('truetype'), url('../font/neuzeitgro-bol-webfontfe66.svg?1548324544') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "neuzeitgroextblack";
+  src: url('../font/neuzeitgroext-bla-webfontfe66.eot?1548324544');
+  src: url('../font/neuzeitgroext-bla-webfont5f6a.eot?&amp;1548324544#iefix') format('embedded-opentype'), url('../font/neuzeitgroext-bla-webfontfe66.woff?1548324544') format('woff'), url('../font/neuzeitgroext-bla-webfontfe66.ttf?1548324544') format('truetype'), url('../font/neuzeitgroext-bla-webfontfe66.svg?1548324544') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SSStandard";
+  src: url('../font/ss-standardfe66.eot?1548324544');
+  src: url('../font/ss-standard5f6a.eot?&amp;1548324544#iefix') format('embedded-opentype'), url('../font/ss-standardfe66.woff?1548324544') format('woff'), url('../font/ss-standardfe66.ttf?1548324544') format('truetype'), url('../font/ss-standardfe66.svg?1548324544') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SSSocial";
+  src: url('../font/ss-social-regularfe66.eot?1548324544');
+  src: url('../font/ss-social-regular5f6a.eot?&amp;1548324544#iefix') format('embedded-opentype'), url('../font/ss-social-regularfe66.woff?1548324544') format('woff'), url('../font/ss-social-regularfe66.ttf?1548324544') format('truetype'), url('../font/ss-social-regularfe66.svg?1548324544') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.center{
+    margin: 0 auto 0 auto;
+    padding: 0 12px 0 12px;
+}
+nav{
+  font-family: freightsans_regular,sans-serif;
+  font-size: 130% ;
+  margin: 0 auto 0 auto;
+}
+
+nav ul{
+  margin: 0 auto 0 auto;
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+nav ul li{
+  color:rgb(162, 149, 149);
+  display: inline-block;
+  padding: 0.5em 2em 0.5em 2em;
+}
+
+navButton{
+    display: inline-block;
+    padding: 0 1em 0 1em;
+}
+
